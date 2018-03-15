@@ -4,3 +4,4 @@ This is a Text File
 The big brown fox jumps over the lazy dog.
 
 
+Added a new text line
